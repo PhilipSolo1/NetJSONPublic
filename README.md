@@ -5,7 +5,7 @@ The Library that loads JSON files from the internet.
 ### Usage
 #### `loadnetjson`
 
-Devription: Loads a JSON file from a URL
+Description: Loads a JSON file from a URL
 
 Arguments/Input: `loadnetjson(<URL>)`
 
